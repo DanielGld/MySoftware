@@ -1,6 +1,8 @@
 
 def welcome():
-    print("New Screen")
+    print("New Screen +")
 
 def click():
-    print("Click")
+    print("Click +")
+    
+ 
